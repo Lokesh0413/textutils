@@ -39,7 +39,7 @@ prometheus-client==0.8.0
 prompt-toolkit==3.0.5
 pycryptodome==3.9.7
 pygame==1.9.6
-Pygments==2.6.1
+Pygments==2.7.4
 PyInstaller==3.6
 PyMySQL==0.9.3
 pyparsing==2.4.7
